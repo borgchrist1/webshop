@@ -1,0 +1,47 @@
+﻿@model webshop.Models.MerchandiseModel
+@{
+    ViewBag.Title = "Cart";
+}
+
+@*<div class="container">
+    <h3>@Model.Name</h3>
+    <p>@Model.Dscription</p>
+    <a href="/home/addtocart/@(Model.Id)">Köp</a>
+    <div class="thumbnail"><img src="@Url.Content("/Content/img/" + Model.Productimg)" /></div>
+</div>*@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-4 item-photo">
+            <img style="max-width:100%;" src="@Url.Content("/Content/img/" + Model.Productimg)" />
+        </div>
+        <div class="col-xs-5" style="border:0px solid gray">
+            <!-- Datos del vendedor y titulo del producto -->
+            <h3>@(Model.Name)</h3>
+            <!-- Precios -->
+            <h6 class="title-price"><small>PRICE</small></h6>
+            <h3 style="margin-top:0px;">@(Model.Price) Kr</h3>
+            <!-- Detalles especificos del producto -->
+            <div class="section" style="padding-bottom:20px;">
+                <h6 class="title-attr"><small>PICES</small></h6>
+                <div>
+                   
+                    <input value="1" />
+                    
+                </div>
+            </div>
+            <!-- Botones de compra -->
+            <div class="section" style="padding-bottom:20px;">
+                <button class="btn btn-success"><span style="margin-right:20px" class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to cart</button>
+            </div>
+        </div>
+        <div class="col-xs-9">
+            <div style="width:100%;border-top:1px solid silver">
+                <p style="padding:15px;">
+                    <small>
+                        @Model.Dscription
+                    </small>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

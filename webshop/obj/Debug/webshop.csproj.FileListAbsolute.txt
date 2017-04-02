@@ -1,0 +1,165 @@
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\ApplicationInsights.config
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\csc.exe
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\System.Collections.Immutable.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\vbc.exe
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\VBCSCompiler.exe
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\roslyn\VBCSCompiler.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\webshop.dll.config
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\webshop.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\webshop.pdb
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Antlr3.Runtime.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.Web.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.WindowsServer.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.ApplicationInsights.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Newtonsoft.Json.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Helpers.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Mvc.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Optimization.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Razor.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.WebPages.Deployment.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.WebPages.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.WebPages.Razor.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\WebGrease.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.Web.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.AI.WindowsServer.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.ApplicationInsights.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Helpers.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Mvc.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Optimization.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.Razor.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.WebPages.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.WebPages.Deployment.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\System.Web.WebPages.Razor.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Antlr3.Runtime.pdb
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\bin\Newtonsoft.Json.xml
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\obj\Debug\webshop.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\obj\Debug\webshop.dll
+c:\users\chris\documents\visual studio 2015\Projects\webshop\webshop\obj\Debug\webshop.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\webshop\webshop\bin\Dapper.dll
+C:\Users\chris\Documents\Visual Studio 2015\Projects\webshop\webshop\bin\Dapper.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\ApplicationInsights.config
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\csc.exe
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\vbc.exe
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\webshop.dll.config
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\webshop.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\webshop.pdb
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Antlr3.Runtime.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Dapper.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.Web.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Helpers.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Mvc.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Optimization.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Razor.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.WebPages.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\WebGrease.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Dapper.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.Web.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Helpers.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Mvc.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Optimization.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.Razor.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.WebPages.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Antlr3.Runtime.pdb
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\bin\Newtonsoft.Json.xml
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\obj\Debug\webshop.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\obj\Debug\webshop.dll
+C:\Users\chris\OneDrive\sync mac\webshop\webshop\obj\Debug\webshop.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\ApplicationInsights.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\csc.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\vbc.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\webshop.dll.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\webshop.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\webshop.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Antlr3.Runtime.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Dapper.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.Web.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Newtonsoft.Json.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Helpers.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Mvc.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Optimization.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Razor.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.WebPages.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\WebGrease.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Dapper.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.Web.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Helpers.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Mvc.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Optimization.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.Razor.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.WebPages.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Antlr3.Runtime.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\bin\Newtonsoft.Json.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\obj\Debug\webshop.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\obj\Debug\webshop.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\webshop\webshop\obj\Debug\webshop.pdb

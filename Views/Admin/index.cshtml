@@ -1,0 +1,32 @@
+﻿@using webshop.Models
+@model MerchandiseModel
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>index</h2>
+
+
+@using (Html.BeginForm("index", "Admin", FormMethod.Post, new { enctype = "multipart/form-data"}))
+{
+
+   @Html.LabelFor(model => model.Name)
+    @Html.EditorFor(model => model.Name)
+
+    @Html.LabelFor(model => model.Dscription)
+    @Html.EditorFor(model => model.Dscription)
+
+    @Html.LabelFor(model => model.Price)
+    @Html.EditorFor(model => model.Price)
+
+    @Html.LabelFor(model => model.Productimg)
+    <input type="file" name="Productimg" value="Brows" />
+
+    @Html.DropDownListFor(m => m.Category,
+                    new SelectList(Enum.GetValues(typeof(Category))),
+                    "Select Category")
+
+      <input type="submit" name="news" value="Add" />
+}
+
+

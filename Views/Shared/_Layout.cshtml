@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @{
+        var cart = Session["cart"] as IEnumerable<webshop.Models.MerchandiseModel>;
+        var zero = 0;
+    }
+</head>
+<body>
+    <div class="container">
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Store", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            &#128722; Cart <span class="badge" style="background: red">
+                                @if (cart != null)
+                                {
+                                    @cart.Count();
+                                }
+                                else
+                                {
+                                    @zero;
+                                }
+                            </span>
+                        </a>
+                        <ul class="dropdown-menu" id="cart">
+                            @*@{
+                                if (cart != null)
+                                {
+                                    foreach (var item in cart)
+                                    {
+                                        <li><a href="#">@item.Name, @item.Price Kr</a></li>
+                                        <li role="separator" class="divider"></li>
+                                    }
+                                    <li><p></p></li>
+                                    <li><a href="/home/CartView">Summa @cart.Sum(i => i.Price) Kr</a></li>
+                                }
+                                else
+                                {
+                                    <li><a href="#">The cart is empty</a></li>
+                                }
+                            }*@
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/Scripts/cart.js")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

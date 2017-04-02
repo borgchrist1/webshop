@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "CartView";
+    var cart = Session["cart"] as IEnumerable<webshop.Models.MerchandiseModel>;
+    int number = 1;
+}
+
+<h2>CartView</h2>
+
+
+
+<div class="container">
+<table class="table">
+    <thead>
+        <tr>
+            <th>Art.Nr</th>
+                        <th>Product</th>
+            <th>Antal</th>
+            <th>Price</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in cart)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@number</td>
+                <td>@item.Price Kr</td>
+
+            </tr>
+        }
+        <tr class="success">
+            <td></td>
+            <td><b>Total</b></td>
+            <td><b>@cart.Sum(i => i.Price) Kr</b></td>
+
+        </tr>
+    </tbody>
+</table>
+
+<button type="button" name="Buy" class="btn btn-success pull-right" >Check out</button>
+</div>

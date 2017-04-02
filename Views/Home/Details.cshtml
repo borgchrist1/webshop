@@ -1,0 +1,10 @@
+﻿@model webshop.Models.MerchandiseModel
+@{
+    ViewBag.Title = "About";
+}
+
+
+<h2>@Model.Name</h2>
+<p>@Model.Dscription</p>
+<a href="/home/addtocart/@(Model.Id)">Köp</a>
+<div class="thumbnail"><img src="@Url.Content("/Content/img/" + Model.Productimg)"/></div>
