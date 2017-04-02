@@ -3,7 +3,7 @@ let cart = [];
 
 function onClick(event) {
     let id = event.srcElement.dataset.set;
-    fetchJson("http://localhost:61176/home/AddToCart/" + id);
+    fetchJson("http://localhost:61176/cart/AddToCart/" + id);
 
 }
 
@@ -32,7 +32,7 @@ function fetchCart() {
             }
         }
     };
-    xhttp.open("GET", 'http://localhost:61176/home/getcart', true);
+    xhttp.open("GET", 'http://localhost:61176/cart/getcart', true);
     xhttp.send();
 }
 

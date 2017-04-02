@@ -1,0 +1,34 @@
+﻿@model webshop.Models.UserViewModel
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+<div class="container">
+    @using (Html.BeginForm("ThankYou", "Cart", FormMethod.Post))
+    {
+        <div class="row">
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+        </div>
+        <div class="row">
+            @Html.LabelFor(model => model.Email)
+            @Html.EditorFor(model => model.Email)
+        </div>
+        <div class="row">
+            @Html.LabelFor(model => model.Street)
+            @Html.EditorFor(model => model.Street)
+        </div>
+        <div class="row">
+            @Html.LabelFor(model => model.Zip)
+            @Html.EditorFor(model => model.Zip)
+        </div>
+        <div class="row">
+            @Html.LabelFor(model => model.City)
+            @Html.EditorFor(model => model.City)
+        </div>
+        <div class="row">
+            <input class="btn btn-success pull-right" type="submit" name="Checkout" value="Checkout">
+        </div>
+    }
+</div>
